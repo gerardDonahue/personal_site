@@ -2,44 +2,35 @@
 layout: default
 ---
 
-## About Me
+## Biography
+<img class="profile-picture" src="headshot.jpg">
 
-<img class="profile-picture" src="sherlock.jpg">
+Gerard Donahue is a PhD student in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *reinforcement learning*, *imitation learning*, and *video understanding*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where he works to discover impactful methods for procedural task execution.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Before beginning his doctoral studies at Northeastern, Gerard obtained his B.S in Computer Science from the [University of New Hampshire](https://www.unh.edu) (UNH), where he earned Magna Cum Laude upon graduation. At UNH, Gerard worked in the realm of *Inverse Reinforcement Learning* under the advisement of [Dr. Marek Petrik](http://marek.petrik.us/).
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Most recently, Gerard worked as a machine learning research intern at [Ultra Electronics](https://www.ultra.group) in Austin, TX during summer 2022. At Ultra, Gerard used his knowledge of reinforcement learning to spearhead research in the field of *Target Localization* in collaboration with [Dr. Guni Sharon](https://people.engr.tamu.edu/guni/index.html) at Texas A&M. In 2020, Gerard worked as a software engineer at [Intel Corporation](https://www.intel.com/content/www/us/en/homepage.html).
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+While Gerard's research interests span widely, his primary interest is to harness the power of machine learning algorithms to increase the value of modern technology. He sees reinforcement learning as a prime way to accomplish this, where learning from reward feedback can tackle many real-world problems; in autonomous systems, computer vision, and much more.
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+- [Unbiased Efficient Feature Counts for Inverse RL](neurips-2020.pdf)
+    -- **Gerard Donahue**, Brendan Crowe, Marek Petrik, Daniel S. Brown NeurIPS. Workshop on Safe and Robust Control of Uncertain Systems, 2021.
 
-## Typography
+## Contact
+#### If you are interested in my research or would like to just chat, please reach out :)
+* **Email**: donahue [dot] g [at] northeastern.edu
+* [LinkedIn Profile](www.linkedin.com/in/gerard-donahue-ml)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
 
-Here is a table
+***
+> "I believe things cannot make themselves impossible."
+> -- Stephen Hawking
+***
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
 
-Here is a horizontal rule
 
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+<br/><br/>
