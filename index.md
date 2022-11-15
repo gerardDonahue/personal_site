@@ -29,7 +29,6 @@ While Gerard's research interests span widely, his primary interest is to harnes
 ***
 > "I believe things cannot make themselves impossible."
 > -- Stephen Hawking
-***
 
 
 
