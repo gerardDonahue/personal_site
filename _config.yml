@@ -1,5 +1,5 @@
-title: Gerard Lawrence Donahue
-url: "https://gerarddonahue.github.io"
+title: Gerard L. Donahue
+url: "https://gerard.github.io"
 
 markdown: kramdown
 
@@ -10,7 +10,7 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
+# nav:
 #  - name: "Resume"
 #    link: "resume.pdf"
 #  - name: "Contact"

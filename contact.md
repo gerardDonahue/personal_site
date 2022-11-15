@@ -1,6 +1,7 @@
 ---
 layout: default
 is_contact: true
+title_name: Gerard Donahue
 ---
 
 #### If you are interested in my research or would like to just chat, please reach out :)
