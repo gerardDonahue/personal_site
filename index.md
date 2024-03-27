@@ -16,10 +16,13 @@ In the summer of 2022, Gerard worked as a machine learning research intern at [U
 
 While Gerard's research interests span widely, his primary interest is to harness the power of machine learning algorithms to increase the value of modern technology. He sees reinforcement learning as a prime way to accomplish this, where learning from reward feedback can tackle many real-world problems; in autonomous systems, computer vision, and much more.
 
-## Publications
+## Workshops
 
 - [Unbiased Efficient Feature Counts for Inverse RL](neurips-2020.pdf)
     -- **Gerard Donahue**, Brendan Crowe, Marek Petrik, Daniel S. Brown NeurIPS. Workshop on Safe and Robust Control of Uncertain Systems, 2021.
+
+## News!
+- One paper accepted to CVPR 2024, titled "Learning to Predict Activity Progress by Self-Supervised Video Alignment". 
 
 ## Contact
 #### If you are interested in my research or would like to just chat, please reach out :)
