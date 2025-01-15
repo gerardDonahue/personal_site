@@ -6,7 +6,7 @@ title: "Gerard Donahue"
 ## Biography
 <img class="profile-picture" src="headshot.jpeg">
 
-Gerard Donahue is a third-year PhD student in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *temporal machine learning*, *video understanding*, *deep learning*, and *algorithms*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where his focus involves discovering new methods for procedural task execution.
+Gerard Donahue is a third-year PhD Candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *temporal machine learning*, *video understanding*, *deep learning*, and *algorithms*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where his focus involves discovering new methods for procedural task execution.
 
 Before beginning his doctoral studies at Northeastern, Gerard obtained his B.Sc. in Computer Science from the [University of New Hampshire](https://www.unh.edu) (UNH), where he earned Magna Cum Laude upon graduation. At UNH, Gerard worked in the realm of *Inverse Reinforcement Learning* under the advisement of [Dr. Marek Petrik](http://marek.petrik.us/), which resulted in a workshop paper regarding unbiased estimation of feature counts~(or ``occupancy frequencies'').
 
@@ -18,13 +18,13 @@ While Gerard's research interests span widely, his primary interest is to harnes
 
 ## Publications
 - [Learning to Predict Activity Progress by Self-Supervised Video Alignment](https://ieeexplore.ieee.org/document/10658249)
-    -- **Gerard Donahue**, and Ehsan Elhamifar, ``Learning to Predict Activity Progress by Self-Supervised Video Alignment'', 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2024, pp. 18667-18677, doi: 10.1109/CVPR52733.2024.01766.
+    - **Gerard Donahue**, and Ehsan Elhamifar, ``Learning to Predict Activity Progress by Self-Supervised Video Alignment'', 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2024, pp. 18667-18677, doi: 10.1109/CVPR52733.2024.01766.
 
 
 ## Workshop Papers
 
 - [Unbiased Efficient Feature Counts for Inverse RL](neurips-2020.pdf)
-    -- **Gerard Donahue**, Brendan Crowe, Marek Petrik, Daniel S. Brown NeurIPS. Workshop on Safe and Robust Control of Uncertain Systems, 2021.
+    - **Gerard Donahue**, Brendan Crowe, Marek Petrik, Daniel S. Brown NeurIPS. Workshop on Safe and Robust Control of Uncertain Systems, 2021.
 
 
 ## Contact
