@@ -6,7 +6,7 @@ title: "Gerard Donahue"
 ## Biography
 <img class="profile-picture" src="headshot.JPG">
 
-Gerard Donahue is a third-year PhD Candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *temporal machine learning*, *video understanding*, *deep learning*, and *algorithms*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where his focus involves discovering new methods for procedural task execution.
+Gerard Donahue is a third-year PhD Candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *temporal machine learning*, *video understanding*, *deep learning*, and *algorithms*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where his focus involves discovering mathematical techniques to better train deep models to understand progress and procedural execution of tasks in video data.
 
 Before beginning his doctoral studies at Northeastern, Gerard obtained his B.Sc. in Computer Science from the [University of New Hampshire](https://www.unh.edu) (UNH), where he earned Magna Cum Laude upon graduation. At UNH, Gerard worked in the realm of *Inverse Reinforcement Learning* (IRL) under the advisement of [Dr. Marek Petrik](http://marek.petrik.us/), which resulted in a workshop paper regarding unbiased estimation of feature counts in IRL.
 
