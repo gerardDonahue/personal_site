@@ -20,6 +20,9 @@ While Gerard's research interests span widely, his primary interest is to harnes
 - [Learning to Predict Activity Progress by Self-Supervised Video Alignment](https://ieeexplore.ieee.org/document/10658249)
     - **Gerard Donahue**, and Ehsan Elhamifar, ``Learning to Predict Activity Progress by Self-Supervised Video Alignment'', 2024 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), Seattle, WA, USA, 2024, pp. 18667-18677, doi: 10.1109/CVPR52733.2024.01766.
 
+## News
+- Achieved PhD Candidacy at Northeastern.
+- Obtained Masters in Science at Northeastern.
 
 ## Workshop Papers
 
