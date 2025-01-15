@@ -4,7 +4,7 @@ title: "Gerard Donahue"
 ---
 
 ## Biography
-<img class="profile-picture" src="headshot.jpeg">
+<img class="profile-picture" src="headshot.JPG">
 
 Gerard Donahue is a third-year PhD Candidate in Computer Science in the [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) at Northeastern University, Boston MA. Broadly speaking, his interests lie at the intersection of *temporal machine learning*, *video understanding*, *deep learning*, and *algorithms*. Gerard is currently a research assistant under [Dr. Ehsan Elhamifar](https://www.ccs.neu.edu/home/eelhami/) where his focus involves discovering new methods for procedural task execution.
 
